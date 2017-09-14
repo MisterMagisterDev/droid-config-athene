@@ -1,0 +1,6 @@
+requires:droid-hal-athene
+requires:droid-config-athene
+requires:droid-hal-version-athene
+requires:libhybris-libEGL
+requires:libhybris-libGLESv2
+requires:libhybris-libwayland-egl
